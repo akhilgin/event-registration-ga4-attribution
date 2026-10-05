@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+out/
+*.csv
+node_modules/
+# service account keys and other credentials
+*service-account*.json
+credentials*.json
+.DS_Store
